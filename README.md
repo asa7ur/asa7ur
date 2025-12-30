@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Garik
 
-Soy **desarrollador web full-stack** de Sevilla (Andalucía/España). Me especializo en tecnologías como **HTML, CSS, JavaScript, React, Java y Node.JS**. 
+Soy **desarrollador web full-stack** de Sevilla (Andalucía/España). Me especializo en tecnologías como **HTML, CSS, JavaScript, Java, SpringBoot, Angular, SQL, React y Node.JS**. 
 
 ---
 
@@ -41,6 +41,6 @@ Wake up, developer... The Matrix has you.
 
     Run npm install && npm start Follow the white rabbit_
 
-🧑‍💻 _Powered by café, teclas mecánicas y commits a medianoche._
+🧑‍💻 _Powered by espressos, teclas mecánicas y commits a medianoche._
 
 -->
