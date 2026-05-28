@@ -10,8 +10,8 @@ Soy **desarrollador web full-stack** de Sevilla (Andalucía/España). Me especia
 Una tienda de repostería desarrollada con React para el frontend y NodeJS para el backend 
 que permite a los usuarios explorar y comprar una variedad de productos de repostería artesanales. 
 
-### :paintbrush: Portfolio de Artista(https://asa7ur-art.netlify.app/)
-Una página web personal desarrollada con React para mostrar mi portfolio de retratos a carboncillo.
+### :paintbrush: Portfolio de Artista(https://asa7ur-art-portfolio.vercel.app/)
+Una página web personal desarrollada con Next.JS para mostrar mi portfolio de retratos a carboncillo.
 
 ### :partly_sunny: Aplicación de Pronóstico del Tiempo(https://weather-app-1-asa7ur.netlify.app/)
 Una aplicación desarrollada con JavaScript que proporciona 
