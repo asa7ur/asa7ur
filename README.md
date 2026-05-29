@@ -10,7 +10,7 @@ Soy **desarrollador web full-stack** de Sevilla (Andalucía/España). Me especia
 Aplicación web desarrollada con **Angular 21**, **Springboot 4** y **Tailwind CSS 4** que gestiona la experiencia completa de un festival de música: cartel de artistas, compra de entradas, autenticación de usuarios y panel de perfil con historial de pedidos. Arquitectura modular con internacionalización (ngx-translate).
 
 ### :paintbrush: Portfolio de Artista (https://asa7ur-art-portfolio.vercel.app/)
-Una página web personal desarrollada con **Next.JS** para mostrar mi portfolio de retratos a carboncillo.
+Página web personal para mostrar y vender mis retratos a carboncillo. Construida con **Next.js 16** (App Router), imágenes gestionadas desde **Cloudinary** y datos servidos desde **Neon** (PostgreSQL serverless).
 
 ### 🧺 Tender – ¿Tiendes fuera o dentro? (https://tender-jet.vercel.app/)
 App web desarrollada con **Next.JS 16** y **Tailwind CSS v4** que consulta el tiempo en tiempo real (via **Open-Meteo**, sin API key) y te dice si es buen momento para tender ropa al aire libre. Incluye geolocalización automática, búsqueda de ciudades, gráfico de temperatura horaria con probabilidad de lluvia, y previsión para la mañana siguiente — útil si quieres poner la lavadora por la noche y saber si podrás tender al día siguiente.
