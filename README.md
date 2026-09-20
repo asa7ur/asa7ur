@@ -6,6 +6,13 @@ Me interesa especialmente el ciclo completo: no solo escribir la aplicación, si
 
 ---
 
+## 🎓 Formación
+
+- 📚 **Técnico Superior en Desarrollo de Aplicaciones Web** – IES Alixar (2024 – 2026)
+- 🏆 Cursos online en freeCodeCamp, Google Learn y Udemy
+
+---
+
 ## 💼 Experiencia
 
 ### Accenture — Desarrollador full-stack _(desde febrero de 2026)_
@@ -40,13 +47,6 @@ Página web personal para mostrar y vender mis retratos a carboncillo. Construid
 App web con **Next.js 16** y **Tailwind CSS 4** que consulta el tiempo en tiempo real (vía **Open-Meteo**, sin API key) y te dice si es buen momento para tender la ropa fuera. Incluye geolocalización automática, búsqueda de ciudades, gráfico de temperatura por horas con probabilidad de lluvia y previsión para la mañana siguiente, útil si pones la lavadora por la noche.
 
 📦 Código: [tender-app](https://github.com/asa7ur/tender-app)
-
----
-
-## 🎓 Formación
-
-- 📚 **Técnico Superior en Desarrollo de Aplicaciones Web** – IES Alixar (2024 – 2026)
-- 🏆 Cursos online en freeCodeCamp, Google Learn y Udemy
 
 ---
 
